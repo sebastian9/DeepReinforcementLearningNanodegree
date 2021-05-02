@@ -39,7 +39,7 @@ The evolution of the reward is displayed in the graph below:
 
 Here's an example run of the solved agent:
 
-[![Youtube Video](./youtube.png)](https://youtu.be/eu4uLXHx0H8)
+[![Youtube Video](./youtube.png)](https://youtu.be/eu4uLXHx0H8){:target="_blank"}
 
 ## Future Work
 
