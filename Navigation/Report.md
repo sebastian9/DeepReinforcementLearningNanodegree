@@ -33,6 +33,12 @@ The evolution of the reward is displayed in the graph below:
 
 ![Rewards](./rewards.png)
 
+## Solved Agent
+
+Here's an example run of the solved agent:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4uLXHx0H8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Future Work
 
 The next challenge would be to solve this environment [using raw pixel data](#challenge-learning-from-pixels) from a convolutional neural network. The model and it's convergence become a bit more complicated, and CUDA memory management becomes something to bare in mind.
