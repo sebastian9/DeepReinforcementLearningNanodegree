@@ -8,6 +8,8 @@
 
 [Rewards](#Rewards)
 
+[Solved Agent](#solved-agent)
+
 [Future Work](#Future-Work)  
 
 ## Algorithm
@@ -37,7 +39,7 @@ The evolution of the reward is displayed in the graph below:
 
 Here's an example run of the solved agent:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4uLXHx0H8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Youtube Video](./youtube.png)](https://youtu.be/eu4uLXHx0H8)
 
 ## Future Work
 
